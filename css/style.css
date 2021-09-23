@@ -1,0 +1,43 @@
+body {
+    font: 20px, Arial, sans-serif;
+}
+
+.parceiros {
+    background-color: rgba(68, 0, 255, 0.185);
+}
+
+.servicos {
+    background-color: rgba(184, 164, 238, 0.315);
+}
+
+.navbar {
+    background-color: rgb(97, 47, 116);
+}
+
+#quemsomos {
+    background-color: rgba(0, 0, 255, 0.185);
+}
+
+.margin {
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+.img-redonda {
+    width: 17rem;
+    height: 17rem;
+    align-self: center;
+    border-radius: 100%;
+    margin: 2.3rem auto 2.5rem auto;
+    overflow: hidden;
+    position: relative;
+}
+
+.marginlogo {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.bg-footer {
+    background-color: rgb(36, 32, 32);
+}
